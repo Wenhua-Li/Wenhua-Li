@@ -20,7 +20,7 @@ College of Systems Engineering, National University of Defense Technology (NUDT)
 | 2026 | Robust Constrained Multimodal Dominance evolution for dynamic weapon-target assignment | *Swarm Evol. Comput.* | [MO-DWTA](https://github.com/Wenhua-Li/MO-DWTA) |
 | 2026 | Knowledge-Guided Competitive EA for Multi-Solution Sensor-Weapon-Target Assignment | *IEEE Trans. Evol. Comput.* | [M3SWTA](https://github.com/Wenhua-Li/M3SWTA) |
 | 2026 | Dynamic phase-ordered weapon-target assignment (KG-DREA) | *Control and Decision* (in press) | [D-POWTA](https://github.com/Wenhua-Li/D-POWTA) |
-| 2026 | Constrained multimodal dominance embedded dual-population coevolutionary algorithm | *Swarm Evol. Comput.* | — |
+| 2026 | Constrained multimodal dominance embedded dual-population coevolutionary algorithm | *Swarm Evol. Comput.* | [CMD-CoEA](https://github.com/Wenhua-Li/CMD-CoEA) |
 | 2024 | Knowledge-guided evolutionary algorithm for multi-satellite resource scheduling | *Future Gener. Comput. Syst.* | [KgEA4MSRSOP](https://github.com/Wenhua-Li/KgEA4MSRSOP) |
 | 2024 | Knowledge-guided evolutionary optimization for large-scale air defense resource allocation | *IEEE Trans. Artif. Intell.* | — |
 | 2024 | Large-Scale Binary Matrix Optimization for Multimicrogrids Network Structure Design | *IEEE Trans. SMC: Systems* | [LBMDEforMNSDP](https://github.com/Wenhua-Li/LBMDEforMNSDP) |
