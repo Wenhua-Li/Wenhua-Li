@@ -5,7 +5,7 @@ I work on **evolutionary computation**, with a focus on **multimodal multi-objec
 College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
 
 - 📫 Email: `liwenhua1030@aliyun.com`
-- 🧩 Several of my algorithms (**MMEA-WI**, **CoMMEA**) are officially included in [PlatEMO](https://github.com/BIMK/PlatEMO) v4.2+
+- 🧩 Three of my algorithms (**MMEA-WI**, **HREA**, **CoMMEA**) are officially included in [PlatEMO](https://github.com/BIMK/PlatEMO)
 
 ## News
 
