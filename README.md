@@ -1,4 +1,4 @@
-# Wenhua Li (李文桦)
+# Wenhua Li
 
 I work on **evolutionary computation**, with a focus on **multimodal multi-objective optimization**, knee-point-driven methods, and their applications in **defense resource allocation** (weapon-target assignment), **satellite scheduling**, and **renewable energy system design**.
 
